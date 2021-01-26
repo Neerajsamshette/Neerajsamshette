@@ -5,10 +5,10 @@
 
 ### About me:
 
-- 🌱 I’m currently learning Python , JavaScript and Machine Learning !
+- 🌱 I’m currently learning Python , JavaScript and React.js !
 - 💬 Ask me about Python and HTML,CSS
 - 📫 How to reach me: ?
-- ⚡ Fun fact: I like to make Apps( Web and Desktop).
+- ⚡ Fun fact: I like to make Apps( Web and Mobile).
 - 💻 Coding is about thinking not about typing (Author : Don't know)
 
 ## Language's and Tools
