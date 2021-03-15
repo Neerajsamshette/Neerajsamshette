@@ -5,7 +5,7 @@
 
 ### About me:
 
-- 🌱 I’m currently learning Python , JavaScript and React.js !
+- 🌱 I’m currently learning Python, HTML,CSS!
 - 💬 Ask me about Python and HTML,CSS
 - 📫 How to reach me: ?
 - ⚡ Fun fact: I like to make Apps( Web and Mobile).
