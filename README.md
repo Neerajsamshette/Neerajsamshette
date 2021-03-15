@@ -13,6 +13,6 @@
 
 ## Language's and Tools
 
- - Languages - Python
+ - Language - Python
  - Tools - VScode, Adobe XD, MySQL, PyCharm, Git and Github
  - Libraries i learnt in Python - Django, Kivy, Tkinter, Tensorflow, Pandas, Numpy, Matplotlib, OpenCV and PyGame
