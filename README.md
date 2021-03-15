@@ -15,4 +15,4 @@
 
  - Languages - Python
  - Tools - VScode, Adobe XD, MySQL, PyCharm, Git and Github
- - Libraries in Python i learnt - Django, Kivy, Tkinter, Tensorflow, Pandas, Numpy, Matplotlib, OpenCV and PyGame
+ - Libraries i learnt in Python - Django, Kivy, Tkinter, Tensorflow, Pandas, Numpy, Matplotlib, OpenCV and PyGame
